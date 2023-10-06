@@ -28,4 +28,4 @@ A YouTube clone project built with React.js and Firebase, where users can watch 
 1. Clone the repository:
 
    ```bash
-   git clone [github.com](https://github.com/pitabasdev/my-yotube-clone)
+   git clone (https://github.com/pitabasdev/my-yotube-clone)
