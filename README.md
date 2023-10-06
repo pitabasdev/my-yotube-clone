@@ -1,6 +1,6 @@
 # YouTube Clone 🎬
 
-A YouTube clone project built with React.js and Firebase, where users can watch and upload videos, sign in through Gmail, search for videos, comment, subscribe to channels, like, dislike, and share videos.
+A YouTube clone project built with React.js and Firebase, where users can watch a videos, sign in through Gmail, search for videos, comment, subscribe to channels, like, dislike, and share videos.
 
 ## Features 🚀
 
