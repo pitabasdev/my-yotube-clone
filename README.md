@@ -25,7 +25,17 @@ A YouTube clone project built with React.js and Firebase, where users can watch 
 
 ## Getting Started 🏁
 
-1. Clone the repository:
-
    ```bash
    git clone https://github.com/pitabasdev/my-yotube-clone
+## Project Structure 📁
+/src - Contains the React components, styles, and Firebase setup.
+/public - Static files and the index.html template.
+##Contributing 🤝
+Contributions are welcome! Please create a pull request or open an issue if you have any suggestions or improvements.
+
+##License 📄
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+##Acknowledgments 🙌
+Special thanks to YouTube for inspiration!
+Icons made by Freepik from Flaticon.
