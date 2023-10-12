@@ -20,7 +20,7 @@ A YouTube clone project built with React.js and Firebase, where users can watch 
 - Firebase Realtime Database
 - Firebase Storage
 - YouTube Data API (for video search)
-- HTML/CSS
+- HTML/CSS/JSX
 - JavaScript
 
 ![image](https://github.com/pitabasdev/my-yotube-clone/assets/85897297/f44c283f-2534-4dac-ab50-4c46361b6364)
